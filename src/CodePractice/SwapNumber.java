@@ -1,5 +1,5 @@
-//Method 1
-//public class SwapNumber {
+package CodePractice;//Method 1
+//public class CodePractice.SwapNumber {
 //    static void swapValuesUsingThirdVar(int m, int n){
 //        int temp=m;
 //        m=n;

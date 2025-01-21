@@ -1,3 +1,5 @@
+package CodePractice;
+
 public class Factorial {
     static int factorialIterative(int n){
         int res=1;

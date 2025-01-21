@@ -1,3 +1,5 @@
+package CodePractice;
+
 class Car{
     //Instance variable
     String make;

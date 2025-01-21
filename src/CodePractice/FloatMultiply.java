@@ -1,3 +1,5 @@
+package CodePractice;
+
 public class FloatMultiply {
     public static void main(String[] args) {
 //        Multiply two float numbers

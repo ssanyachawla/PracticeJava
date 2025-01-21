@@ -1,3 +1,5 @@
+package CodePractice;
+
 public class DataTypes {
     public static void main(String[] args){
         int age=25;           //Integer variable

@@ -1,3 +1,5 @@
+package CodePractice;
+
 public class PrimeNumbers {
     public static void main(String[] args){
         int limit=100;

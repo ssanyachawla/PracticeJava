@@ -1,3 +1,5 @@
+package CodePractice;
+
 public class ForLoop {
     public static void main(String[] args) {
         //For Loop: Print numbers from 1 to 5

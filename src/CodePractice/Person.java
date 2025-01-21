@@ -1,3 +1,5 @@
+package CodePractice;
+
 class PersonDetails {
     String name;
     int age;

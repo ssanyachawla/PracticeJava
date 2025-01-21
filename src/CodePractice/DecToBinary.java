@@ -1,10 +1,10 @@
-// Method 1- Using Arrays
+package CodePractice;// Method 1- Using Arrays
 //1. Store the remainder when the number is divided by 2 in an array i.e. binaryNum[i]=n%2
 //2. Divide the number by 2 i.e. n/2
 //3 Repeat it until the number n is greater than 0 i.e. while(n>0)
 //4. Print the binaryNum array in reverse order
 
-//public class DecToBinary {
+//public class CodePractice.DecToBinary {
 //    static void decToBinary(int n){
 ////  array to store the remainders
 //        int[] binaryNum= new int[100];
