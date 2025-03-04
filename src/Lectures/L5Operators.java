@@ -75,6 +75,14 @@ public class L5Operators {
         // Using right shift: divides by 2
         System.out.println("s>>1 : " + (s >> 1));
 
+        int one=1;
+        int two=one++;
+        System.out.println(one);
+        System.out.println(two);
+        System.out.println(one);
+
+
+// Order Of Operators- (),*/,+-
 
 
     }

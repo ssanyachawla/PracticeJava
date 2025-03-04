@@ -35,6 +35,8 @@ public class L4Strings {
 
         System.out.println("\n");
         String s1 = "hi John";
+        String s2 = "hi John";
+        StringBuffer s3 =new StringBuffer("hi john");
         System.out.println(s1.hashCode());
         System.out.println("hi John".hashCode());
 //        both contains same characters so their hash values are identical
